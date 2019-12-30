@@ -14,3 +14,6 @@ Requirements:
 
 Output:
 ![image1](wireline_log.jpg)
+
+
+Credit to https://github.com/petroGG/Basic-Well-Log-Interpretation
